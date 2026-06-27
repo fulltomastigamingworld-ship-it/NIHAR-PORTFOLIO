@@ -1,0 +1,6 @@
+{
+  "name": "Nihar Portfolio",
+  "description": "An ultra-premium personal portfolio website for Nihar, Chemical Engineer and AI Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
