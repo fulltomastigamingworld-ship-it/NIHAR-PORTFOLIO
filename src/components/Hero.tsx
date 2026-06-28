@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'motion/react';
 import { ArrowUpRight, ChevronRight, FileDown } from 'lucide-react';
+import ssniharImg from '../assets/images/ssnihar.png';
 
 export default function Hero() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -264,7 +265,7 @@ export default function Hero() {
                 className="w-full h-full relative"
               >
                 <img
-                  src="/src/assets/images/ssnihar.png"
+                  src={ssniharImg}
                   alt="Nihar"
                   className="w-full h-full object-cover scale-[1.03] hover:scale-[1.05] transition-transform duration-700"
                   referrerPolicy="no-referrer"
