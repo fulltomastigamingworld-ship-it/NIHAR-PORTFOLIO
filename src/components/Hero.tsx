@@ -264,7 +264,7 @@ export default function Hero() {
                 className="w-full h-full relative"
               >
                 <img
-                  src="/src/assets/images/ChatGPT Image Jun 27, 2026, 06_56_48 PM.png"
+                  src="/src/assets/images/ssnihar.png"
                   alt="Nihar"
                   className="w-full h-full object-cover scale-[1.03] hover:scale-[1.05] transition-transform duration-700"
                   referrerPolicy="no-referrer"
